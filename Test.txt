@@ -1,1 +1,2 @@
 Latihan GIT kelas 08
+Sudah bisa pull
