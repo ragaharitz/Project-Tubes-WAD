@@ -1,2 +1,5 @@
 Latihan GIT kelas 08
+SUDAH BISA GIT PUSH
 Sudah bisa pull
+
+
